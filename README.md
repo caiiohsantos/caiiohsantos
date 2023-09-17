@@ -10,7 +10,9 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSC.**
+  💼 Ferramentas:
+  <a href="https://code.visualstudio.com">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 <p align="left">
