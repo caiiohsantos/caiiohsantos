@@ -21,12 +21,12 @@
   <a href="mailto:caiiohenrique55@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="caiiohenrique55@gmail.com" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5531985246471?text=Vim+pelo+Github" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5531985246471?text=Vim+pelo+Github"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/caiiosantoscec" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/caiiosantoscec/"/></a>
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/caiiozera.tv" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/caiiozera.tv/"/></a>
 </p>
