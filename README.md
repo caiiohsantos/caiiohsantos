@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:caiiohenrique55@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:caiiohenrique55@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="caiiohenrique55@gmail.com" /></a>
 
   <a href="https://wa.me/5531985246471?text=Vim+pelo+Github" alt="WhatsApp" target="_blank">>
