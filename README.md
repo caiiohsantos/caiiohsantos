@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, me chamo Caio tenho 24 anos, atualmente estou me graduando na área de <strong>Sistemas de Informação.</strong> na faculdade Newton Paiva.<br>
+  Oi, me chamo Caio tenho 26 anos, atualmente estou me graduando na área de <strong>Sistemas de Informação.</strong> na faculdade Una BH.<br>
   Atualmente estou estudando um pouco de front-end pela DevMedia.
 </p>
 
